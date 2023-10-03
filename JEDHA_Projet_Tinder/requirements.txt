@@ -1,0 +1,5 @@
+pandas
+numpy
+matplolip
+plotly
+seaborn
